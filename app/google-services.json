@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522493221081",
+    "firebase_url": "https://smileapp-2030b.firebaseio.com",
+    "project_id": "smileapp-2030b",
+    "storage_bucket": "smileapp-2030b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522493221081:android:20c0ed9aea86c02fb2c6c8",
+        "android_client_info": {
+          "package_name": "com.chongliang.smileApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522493221081-8s1ge0v667up89hic8aqiknp8otp7r2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chongliang.smileApp",
+            "certificate_hash": "4966150a3f44411d0c8a5a7be6cf2d33ab10b38d"
+          }
+        },
+        {
+          "client_id": "522493221081-d5u05u8bu7p3603uk1qiqpd7at7t87je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIUHgAwSZOupWgOrxJ8RQIlwNaIf0YufU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522493221081-d5u05u8bu7p3603uk1qiqpd7at7t87je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
